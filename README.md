@@ -30,8 +30,7 @@ Whether you're just starting out with Python or brushing up on fundamentals, thi
 To explore the repository on your local machine:
 
 ```bash
-git clone https://github.com/rbyzk/python-notes.git
-cd python-notes
+git clone https://github.com/rbyzk/Python.git
 ```
 
 ## 🤝 Contributing
@@ -39,7 +38,7 @@ Contributions are welcome! If you'd like to add tutorials, fix typos, or share u
 
 
 ## 👩‍💻 About Me
-Hi, I'm Beyza Küçük, passionate about statistics, data science, and turning data into meaningful insights. I create content that makes complex concepts more accessible for learners at all levels.
+Hi, I'm Beyza Küçük — a data science enthusiast passionate about building interpretable models and making complex topics accessible through hands-on projects and clear visualizations.
 
 
 ## 🌐 Let's connect and grow together in data:
